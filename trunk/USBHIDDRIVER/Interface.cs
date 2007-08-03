@@ -26,7 +26,7 @@ using System.Threading;
 namespace USBHIDDRIVER
 {
     /// <summary>
-    /// Interface for the HID USB Driver.
+    /// Interface for the HID USB Driver
     /// </summary>
     public class USBInterface
     {
